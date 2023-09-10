@@ -1,3 +1,4 @@
+
 import HomePage from "@/components/Home";
 
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
